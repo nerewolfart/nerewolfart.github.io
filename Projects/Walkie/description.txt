@@ -4,6 +4,6 @@ Project Description
 ---
 Software Tags - separated by commas (marmoset toolbag, unity, UE5, Blender, 3ds Max)
 ---
-https://www.dropbox.com/scl/fi/zg2lrr5axgmcy7f58nh2i/01.png?rlkey=ehc2fypd1nprctawt16lq6tmk&st=i0jcvc1y&dl=0 
+
 ---
 Walkie.html
