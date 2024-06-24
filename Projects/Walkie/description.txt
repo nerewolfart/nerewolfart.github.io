@@ -8,6 +8,6 @@ The model has been made in Blender and the Highpoly in Zbrush while the baking h
 ---
 Blender, Marmoset Toolbag, Zbrush, Substance 3D Painter
 ---
-file:///E:/Modelos/Props/Walkie/Exports/Render/Insta/05.png
+file:///C:/Users/Nerea%20Rodríguez/Documents/GitHub/nerewolfart.github.io/Projects/Walkie/05.png
 ---
 Walkie.html
