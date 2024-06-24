@@ -1,13 +1,13 @@
-https://example1.png
+file:///E:/Modelos/Props/Walkie/Exports/Render/Insta/01.png
 Descriptions go under each image like this! png/jpeg/jpg/gif supported.
 
-https://example2.jpg
+file:///E:/Modelos/Props/Walkie/Exports/Render/Insta/02.png
 Description for example2.jpg.
 
-https://example3.gif
+file:///E:/Modelos/Props/Walkie/Exports/Render/Insta/03.png
 These aren't real images but need replacing with your own.
 
-https://examplevideo.mp4
+file:///E:/Modelos/Props/Walkie/Exports/Render/Insta/04.png
 MP4's are also supported but like with images should be hosted somewhere like dropbox.
 
 https://beforepic.png // https://afterpic.png
