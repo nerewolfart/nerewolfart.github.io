@@ -1,16 +1,16 @@
-https://www.dropbox.com/scl/fi/zg2lrr5axgmcy7f58nh2i/01.png?rlkey=ehc2fypd1nprctawt16lq6tmk&st=wyxiw7v7&dl=0
+file:///C:/Users/Nerea%20Rodríguez/Documents/GitHub/nerewolfart.github.io/Projects/Walkie/01.png
 Descriptions go under each image like this! png/jpeg/jpg/gif supported.
 
-file:///E:/Modelos/Props/Walkie/Exports/Render/Insta/02.png
+file:///C:/Users/Nerea%20Rodríguez/Documents/GitHub/nerewolfart.github.io/Projects/Walkie/02.png
 Description for example2.jpg.
 
-file:///E:/Modelos/Props/Walkie/Exports/Render/Insta/03.png
+file:///C:/Users/Nerea%20Rodríguez/Documents/GitHub/nerewolfart.github.io/Projects/Walkie/03.png
 These aren't real images but need replacing with your own.
 
-file:///E:/Modelos/Props/Walkie/Exports/Render/Insta/04.png
+file:///C:/Users/Nerea%20Rodríguez/Documents/GitHub/nerewolfart.github.io/Projects/Walkie/04.png
 MP4's are also supported but like with images should be hosted somewhere like dropbox.
 
-file:///E:/Modelos/Props/Walkie/Exports/Render/Untitled_003.mp4
+file:///C:/Users/Nerea%20Rodríguez/Documents/GitHub/nerewolfart.github.io/Projects/Walkie/Untitled_003.mp4
 You can create before and after slider by seperating two urls with ' // ' 
 
 https://sketchfabexample.com 
