@@ -10,7 +10,7 @@ These aren't real images but need replacing with your own.
 file:///E:/Modelos/Props/Walkie/Exports/Render/Insta/04.png
 MP4's are also supported but like with images should be hosted somewhere like dropbox.
 
-https://beforepic.png // https://afterpic.png
+file:///E:/Modelos/Props/Walkie/Exports/Render/Untitled_003.mp4
 You can create before and after slider by seperating two urls with ' // ' 
 
 https://sketchfabexample.com 
