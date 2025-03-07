@@ -1,5 +1,3 @@
 WalkieTalkie
 Flashlight
 Zoom H5
-Example Project
-BigMegaGunExample
