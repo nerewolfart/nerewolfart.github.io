@@ -1,0 +1,14 @@
+Zoom H5 4-Track Portable Recorder
+---
+Hello everybody I would like to present you the project I have been working on.
+Recorder made from several references I found on amazon of the Zoom H5 4-Track Portable Recorder model.
+Highpoly - Zbrush
+Lowpoly - Blender
+Baking, rendering - Marmoset Toolbag 4
+Textures - Substance Painter
+---
+Blender, Zbrush, Marmoset Toolbag, Substance Painter
+---
+https://i.postimg.cc/QtWK5qvD/tbrender-Viewport-005-Viewport-003.png
+---
+Zoom H5.html
