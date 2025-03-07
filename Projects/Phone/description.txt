@@ -1,0 +1,10 @@
+Motorola Dynatac 8000X
+---
+Looking for references I found this old Motorola phone in an Ebay store and I really liked the retro and vintage touch, so I decided to model it and give it some of my touch.
+The prop has 7,760 tris and I mainly wanted to focus on getting more photorealism as well as learning more how to optimize the props.
+---
+Blender, Marmoset Toolbag, Zbrush, Substance Painter
+---
+https://i.postimg.cc/dVshVFBG/Untitled-Viewport-005.jpg
+---
+Phone.html
