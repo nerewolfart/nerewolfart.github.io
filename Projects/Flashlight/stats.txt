@@ -1,13 +1,12 @@
-Triangles: 
+Triangles: 10,396
 
-Materials: 
 
-Texture Size: 
 
-Texel Density: 
+Texture Size: 4096 x 4096
 
-Workflow: 
 
-Target Engine: 
 
-Collaborators:
+
+
+
+
