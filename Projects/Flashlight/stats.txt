@@ -1,4 +1,4 @@
-Triangles: 19, 082
+Triangles: 10,396
 
 
 
