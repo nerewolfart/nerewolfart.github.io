@@ -1,0 +1,9 @@
+Glock 19 9mm
+---
+This pistol is inspired by a Glock 19 9mm, I have mixed several generations of parts from this pistol to get a more coherent and realistic result. I also want to add that it was my first gun modeled in 3D so I would appreciate any feedback to improve it.
+---
+Blender, Zbrush, Marmoset Toolbag, Substance Painter, Substance Designer
+---
+https://i.postimg.cc/43zpHWRF/Untitled-Viewport-019.png
+---
+Glock 19 9mm.html
